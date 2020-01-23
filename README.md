@@ -1,2 +1,2 @@
 # Masters-Thesis
-Sovereing Default Prediction with ML
+Sovereing Default Prediction with Machine Learning
