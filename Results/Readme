@@ -1,0 +1,10 @@
+In this folder are the detailed results of model testings at different stages. 
+
+Specifically: 
+- CV stands for the results under the sorted Cross-Validation testing mechanism
+- WF stands for the results under the Walk-Forward testing mechanism
+
+- "WF_Single" and "CV_Single" are the results of a grid search, where, for each individual classifier, we search for optimal hyperparameters, optimal number of variables and optimal fitting window. 
+- "WF_Oversampling" and "CV_Oversampling" are the results of a grid search, where we search for optimal oversampling algorithms for each classifier
+- "Final" is the dataframe with the results from the final model testing on the holdout sample
+
