@@ -1,0 +1,8 @@
+This file contains all code required to replicate the main results of this master thesis. The code can be opened with jupyter notebook. 
+
+- _start.ipynb is the global configuration file which triggers the other files 
+- 01_Preparation.ipynb prepares and standardizes the data 
+- 02_Descriptives.ipynb conducts some descriptive analysis of the data 
+- 03_CV.ipynb trains and tests models under a sorted Cross-Validatation testing scheme 
+- 04_WF.ipynb trains and tests models under a Walk-Forward testing scheme 
+- 05_Combined.ipynb tests the best performing models on the holdout dataset
